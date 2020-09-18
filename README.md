@@ -35,3 +35,4 @@ Herramientas utilizadas en Node.JS:
 - Bcrypt.
 - Moment.
 
+En el contenido del proyecto se incluye una memoria técnica con todo detalle del proyecto.
