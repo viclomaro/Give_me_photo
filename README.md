@@ -35,4 +35,7 @@ Herramientas utilizadas en Node.JS:
 - Bcrypt.
 - Moment.
 
+Para la realización de la BBDD se han usado tanto tablas simples para las características de los productos, cursos y usuarios como tablas intermedias
+usadas como conexión entre pedidos-productos y pedidos-cursos, de esta manera podríamos obtener mediante queries complejas los pedidos y cursos que ha comprado el usuario y poder extraerlo en una tabla visualizandolo en el front.
+
 En el contenido del proyecto se incluye una memoria técnica con todo detalle del proyecto.
