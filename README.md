@@ -22,13 +22,14 @@ Herramientas utilizadas en Angular:
 - Creación de componentes.
 - Uso de servicios para establecer comunicación con API-Rest.
 - Uso de routing para los diferentes accesos dentro de la SPA.
+- Uso de Inputs y Outputs.
 - Uso de Bootsrap como ayuda para diseño y modo responsive.
 - Uso de librerias externas como ngx-pagination para la presentación de los productos.
 
 #### Back:
 Servidor realizado sobre Node.JS, Express.JS y BBDD relacional MySQL gestionada con HeidiSQL.
 Herramientas utilizadas en Node.JS:
-- Uso tokens para resgistro y login de usuario.
+- Uso de tokens para registro y login de usuario.
 - Cors.
 - DotEnv.
 - Jwt-simple.
