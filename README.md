@@ -23,7 +23,7 @@ Herramientas utilizadas en Angular:
 - Uso de servicios para establecer comunicación con API-Rest.
 - Uso de routing para los diferentes accesos dentro de la SPA.
 - Uso de Inputs y Outputs.
-- Uso de Bootsrap como ayuda para diseño y modo responsive.
+- Uso de Bootstrap como ayuda para diseño y modo responsive.
 - Uso de librerias externas como ngx-pagination para la presentación de los productos.
 
 #### Back:
