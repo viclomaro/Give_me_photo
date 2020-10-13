@@ -12,7 +12,7 @@ export class CarritoService {
 
   constructor(private httpClient: HttpClient) {
 
-    this.baseUrl = "http://localhost:3000/api/pedidos/carrito";
+    this.baseUrl = "http://localhost:8080/api/pedidos/carrito";
 
     if (localStorage.getItem('carritoPedido')) {
       this.arrCarrito = JSON.parse(localStorage.getItem('carritoPedido'));

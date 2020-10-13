@@ -13,9 +13,9 @@ export class UsuarioService {
   baseUrlDetalleCurso: string;
 
   constructor(private httpClient: HttpClient) {
-    this.baseUrl = "http://localhost:3000/api/users";
-    this.baseUrlPedidos = "http://localhost:3000/api/detallePedidos";
-    this.baseUrlDetalleCurso = 'http://localhost:3000/api/detalleCursos';
+    this.baseUrl = "http://localhost:8080/api/users";
+    this.baseUrlPedidos = "http://localhost:8080/api/detallePedidos";
+    this.baseUrlDetalleCurso = 'http://localhost:8080/api/detalleCursos';
 
   }
 

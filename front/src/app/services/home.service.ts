@@ -10,7 +10,7 @@ export class HomeService {
   baseUrl: string;
 
   constructor(private httpClient: HttpClient) {
-    this.baseUrl = "http://localhost:3000/api/productos/tecnicas";
+    this.baseUrl = "http://localhost:8080/api/productos/tecnicas";
   }
 
   // Enviamos y obtenemos productos por su técnica
